@@ -1,0 +1,11 @@
+C:\Users\Hima\Desktop\New folder\WFA Calculator\WFA Calculator\bin\Debug\WFA Calculator.exe.config
+C:\Users\Hima\Desktop\New folder\WFA Calculator\WFA Calculator\bin\Debug\WFA Calculator.exe
+C:\Users\Hima\Desktop\New folder\WFA Calculator\WFA Calculator\bin\Debug\WFA Calculator.pdb
+C:\Users\Hima\Desktop\New folder\WFA Calculator\WFA Calculator\obj\Debug\WFA Calculator.csproj.AssemblyReference.cache
+C:\Users\Hima\Desktop\New folder\WFA Calculator\WFA Calculator\obj\Debug\WFA Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hima\Desktop\New folder\WFA Calculator\WFA Calculator\obj\Debug\WFA_Calculator.Form1.resources
+C:\Users\Hima\Desktop\New folder\WFA Calculator\WFA Calculator\obj\Debug\WFA_Calculator.Properties.Resources.resources
+C:\Users\Hima\Desktop\New folder\WFA Calculator\WFA Calculator\obj\Debug\WFA Calculator.csproj.GenerateResource.cache
+C:\Users\Hima\Desktop\New folder\WFA Calculator\WFA Calculator\obj\Debug\WFA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Hima\Desktop\New folder\WFA Calculator\WFA Calculator\obj\Debug\WFA Calculator.exe
+C:\Users\Hima\Desktop\New folder\WFA Calculator\WFA Calculator\obj\Debug\WFA Calculator.pdb
